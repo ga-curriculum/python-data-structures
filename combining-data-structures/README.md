@@ -1,7 +1,7 @@
 <div id="hero">
   <h1>
     <span class="headline">Python Data Structures</span>
-    <span class="subhead">TKTK</span>
+    <span class="subhead">Combining Data Structures</span>
   </h1>
 </div>
 
