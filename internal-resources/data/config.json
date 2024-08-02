@@ -5,7 +5,7 @@
   },
   "repo": {
     "friendlyName": "Python Data Structures",
-    "name": "tktk",
+    "name": "python-data-structures",
     "type": "Lesson"
   },
   "courses": [
@@ -20,15 +20,95 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Introduction to Data Structures",
+          "dirName": "introduction-to-data-structures",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
-          "type": "Level Up content",
+          "friendlyName": "Lists and Tuples",
+          "dirName": "lists-and-tuples",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Dictionaries",
+          "dirName": "dictionaries",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Combining Data Structures",
+          "dirName": "combining-data-structures",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "pps",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Introduction to Data Structures",
+          "dirName": "introduction-to-data-structures",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Lists and Tuples",
+          "dirName": "lists-and-tuples",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Dictionaries",
+          "dirName": "dictionaries",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Combining Data Structures",
+          "dirName": "combining-data-structures",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],

@@ -9,17 +9,40 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+introductionToDataStructures = new Template.Microlesson {
+  friendlyName = "Introduction to Data Structures"
+  dirName = "introduction-to-data-structures"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+listsAndTuples = new Template.Microlesson {
+  friendlyName = "Lists and Tuples"
+  dirName = "lists-and-tuples"
   type = "Content"
   videoUrl = ""
 }
+
+dictionaries = new Template.Microlesson {
+  friendlyName = "Dictionaries"
+  dirName = "dictionaries"
+  type = "Content"
+  videoUrl = ""
+}
+
+combiningDataStructures = new Template.Microlesson {
+  friendlyName = "Combining Data Structures"
+  dirName = "combining-data-structures"
+  type = "Content"
+  videoUrl = ""
+}
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
+
+
 

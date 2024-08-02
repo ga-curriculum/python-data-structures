@@ -12,7 +12,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Python Data Structures"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "python-data-structures"
   type = "Lesson"
 }
 
@@ -23,11 +23,22 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
-      mls.concepts
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson01) {
-        type = "Level Up content"
-      }
+      mls.introductionToDataStructures
+      mls.listsAndTuples
+      mls.dictionaries
+      mls.combiningDataStructures
+      mls.wrapUp
+    }
+  }
+  new {
+    name = "pps"
+    microlessons {
+      mls.setup
+      mls.introductionToDataStructures
+      mls.listsAndTuples
+      mls.dictionaries
+      mls.combiningDataStructures
+      mls.wrapUp
     }
   }
 }
