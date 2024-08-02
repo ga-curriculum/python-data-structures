@@ -1,5 +1,9 @@
-# ![Video Hub](../assets/video-hub.png)
-
+<div id="hero">
+  <h1>
+    <span class="prefix"></span>
+    <span class="headline">Video Hub</span>
+  </h1>
+</div>
 Here you'll find the outlines and the assets used in video content, as well as the original and final video content. Notes to help record specific content can also be found here, when applicable.
 
 ## Video content

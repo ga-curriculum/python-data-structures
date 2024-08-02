@@ -1,8 +1,9 @@
-# ![Instructor Guide](../assets/instructor-guide.png)
-
-tktk Information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
-
----
+<div id="hero">
+  <h1>
+    <span class="prefix"></span>
+    <span class="headline">Instructor Guide</span>
+  </h1>
+</div>
 
 🏗️ **Under Construction**
 
