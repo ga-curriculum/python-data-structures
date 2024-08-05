@@ -1,13 +1,15 @@
 <h1>
-  <span class="prefix"></span>
-  <span class="headline">Instructor Guide</span>
+  <span class="headline">Python Data Structures</span>
+  <span class="subhead">Instructor Guide</span>
 </h1>
 
 ## Overview
 
-In this Module, students will learn how to use lists and dictionaries to organize data.
+In this Module, students will learn how to use lists, tuples and dictionaries to organize data.
 
-**Duration:** 120 minutes
+| Module                 | Duration |
+| ---------------------- | -------- |
+| Python Data Structures | 120 min  |
 
 ## Learning Objectives
 
@@ -19,24 +21,24 @@ In this Module, students will:
 
 ## Pre-Class Materials and Preparation
 
-For remote classrooms: Virtual breakout rooms and Slack may be needed to facilitate the partner exercise and discussions. 
+**For remote classrooms**: Virtual breakout rooms and a Chat client may be needed to facilitate the partner exercise and discussions.
 
 As you plan for your lesson:
 
 - Consider how you’ll create pairs for the partner exercise (randomly, or with pre-assigned partners).
 - Determine how (if at all) exercise timing may need to be adjusted.
-- Prepare screenshots and answers to exercises in advance so that they can be easily shared in Slack during your lecture.
+- Prepare screenshots and answers to exercises in advance so that they can be easily shared in Chat during your lecture.
 
-## Pre-Class Materials and Preparation (Cont.)
+**Pre-Work Review**: Many of the concepts covered in this class will recap what students learned in the pre-work.
 
-**Pre-Work Review:** Many of the concepts covered in this class will recap what students learned in the pre-work; in particular, these myGA lessons:
+Specifically these topics:
 
 - Manipulating Variables in Python
 - Data Types in Python
 
-We recommend reviewing the pre-work lessons to understand what students will come to class knowing. Click [here](#TKTK) to see the study guides for these lessons. You can also view the pre-work materials on myGA.
+We recommend reviewing the pre-work lessons to understand what students will come to class knowing.
 
-For review or extension topics, review the notes in the pre-work for recommendations on how to teach the concept. Leverage the discussions, exercises, and knowledge checks to gauge students’ understanding of concepts. You can adjust your approach to the lesson overall based on how students do with these exercises.
+For review or extension topics, review the notes in the pre-work for recommendations on how to teach the concept. Leverage the discussions, exercises, and knowledge checks to gauge students’ understanding of concepts. Adjust your approach to the lesson overall based on how students do with these exercises.
 
 ## Suggested Agenda
 
@@ -51,10 +53,12 @@ For review or extension topics, review the notes in the pre-work for recommendat
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the **Python Workbooks + Data** folder.
+The exercises referenced in this lesson can be found in the [Python Workbooks Repo](#).
 
-Our first few lessons begin by reviewing the notebook, as the same material was covered in the pre-work.
+Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
+
 If students feel that they are able to confidently solve the challenges in the workbook, you can quickly skim through the lesson content and have them only complete the challenges.
+
 ---
 
 🏗️ **Under Construction**
