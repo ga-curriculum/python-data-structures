@@ -5,4 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
+- [Documentation : Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
