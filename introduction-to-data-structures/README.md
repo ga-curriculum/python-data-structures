@@ -74,17 +74,14 @@ Tuples hold values that will not change, while lists can be updated more easily.
 <summary>✅ Click to see the answer: </summary>
 <hr>
 
-- The five continents on Earth: `Tuple`.
-
-- An item for sale in our store: `Dictionary`.
-
-- All transactions conducted in our store: `List`.
-
-- A single transaction conducted in our store: `Dictionary`.
-
-- A weather forecast for today: `Dictionary`.
-
-- The three possible quality rankings for produce: `Tuple`.
+<ul>
+  <li> The five continents on Earth:  Tuple.</li>
+  <li> An item for sale in our store:  Dictionary.</li>
+  <li> All transactions conducted in our store:  List.</li>
+  <li> A single transaction conducted in our store:  Dictionary.</li>
+  <li> A weather forecast for today:  Dictionary.</li>
+  <li> The three possible quality rankings for produce:  Tuple.</li>
+</ul>
 
 <hr>
 </details>
