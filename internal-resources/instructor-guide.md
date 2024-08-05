@@ -29,14 +29,16 @@ As you plan for your lesson:
 - Determine how (if at all) exercise timing may need to be adjusted.
 - Prepare screenshots and answers to exercises in advance so that they can be easily shared in Chat during your lecture.
 
-**Pre-Work Review**: Many of the concepts covered in this class will recap what students learned in the pre-work.
+## Pre-Work Review
+
+Many of the concepts covered in this class will recap what students learned in the pre-work.
 
 Specifically these topics:
 
 - Manipulating Variables in Python
 - Data Types in Python
 
-We recommend reviewing the pre-work lessons to understand what students will come to class knowing.
+*We recommend reviewing the pre-work lessons to understand what students will come to class knowing.*
 
 For review or extension topics, review the notes in the pre-work for recommendations on how to teach the concept. Leverage the discussions, exercises, and knowledge checks to gauge students’ understanding of concepts. Adjust your approach to the lesson overall based on how students do with these exercises.
 
