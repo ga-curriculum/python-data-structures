@@ -51,9 +51,9 @@ You won’t get very far using a new variable for every new piece of data!
 
 Fortunately, Python provides us with some options for compiling data into a single structure:
 
-- **Lists** are exactly what they sound like: comma-separated lists of values.
-- **Tuples** are like lists but more strict. You can’t update the values in a tuple!
-- **Dictionaries** allow us to associate multiple properties together, much like a single row of a spreadsheet can contain many columns.
+- **Lists** - are exactly what they sound like: comma-separated lists of values.
+- **Tuples** - are like lists but more strict. You can’t update the values in a tuple!
+- **Dictionaries** - allow us to associate multiple properties together, much like a single row of a spreadsheet can contain many columns.
 
 ## Discussion : Guess the Data Structure! tktk
 
@@ -75,10 +75,15 @@ Tuples hold values that will not change, while lists can be updated more easily.
 <hr>
 
 - The five continents on Earth: `Tuple`.
+
 - An item for sale in our store: `Dictionary`.
+
 - All transactions conducted in our store: `List`.
+
 - A single transaction conducted in our store: `Dictionary`.
+
 - A weather forecast for today: `Dictionary`.
+
 - The three possible quality rankings for produce: `Tuple`.
 
 <hr>
