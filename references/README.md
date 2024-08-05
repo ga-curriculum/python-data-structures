@@ -1,9 +1,7 @@
-<div id="hero">
-  <h1>
-    <span class="prefix"></span>
-    <span class="headline">References</span>
-  </h1>
-</div>
+<h1>
+  <span class="headline">Python Data Structures</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
