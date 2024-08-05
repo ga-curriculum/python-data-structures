@@ -13,6 +13,17 @@ tktk Write a short but descriptive summary of the content in this module.
 
 - Introduction to Python
 
+## Suggested Agenda
+
+| Time      | Activity                                     |
+| --------- | -------------------------------------------- |
+| 0:00–0:15 | Welcome + Introduction to Data Structures    |
+| 0:15–0:55 | Lists and Tuples                             |
+| 0:55–1:05 | Break                                        |
+| 1:05-1:30 | Dictionaries                                 |
+| 1:30–1:50 | Combining Data Structures                    |
+| 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
+
 ## Content
 
 | Lesson                                                                         | Skills                                 |
