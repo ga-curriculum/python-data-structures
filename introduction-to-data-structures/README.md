@@ -29,6 +29,7 @@ We’re going to return to topics covered in the pre-work and build upon them:
 Let’s dive right in and use what we learned in the pre-work! We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
 - Look over the exercises in today's Jupyter Notebook and attempt any that seem immediately doable to you.
+
 - Then, rate your confidence level on today's subjects from 1–5.
 
 ## Our Sad, Unstructured Data
