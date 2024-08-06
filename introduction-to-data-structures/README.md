@@ -24,7 +24,7 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - Combining data structures.
 - List methods.
 
-## Solo Exercise : Jupyter Notebook (10 min) tktk
+## Solo Exercise: Jupyter Notebook (10 min) TKTK
 
 Let’s dive right in and use what we learned in the pre-work! We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
@@ -56,7 +56,7 @@ Fortunately, Python provides us with some options for compiling data into a sing
 - **Tuples** - are like lists but more strict. You can’t update the values in a tuple!
 - **Dictionaries** - allow us to associate multiple properties together, much like a single row of a spreadsheet can contain many columns.
 
-## Discussion : Guess the Data Structure! tktk
+## Discussion: Guess the Data Structure! TKTK
 
 Before we get into the specifics, let’s think about which of our three data structures (lists, tuples, and dictionaries) makes the most sense when representing the following information:
 

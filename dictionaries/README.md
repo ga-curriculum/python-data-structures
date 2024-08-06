@@ -86,11 +86,11 @@ The same syntax can update a given property as well.
 item["fresh"] = False
 ```
 
-## Solo Exercise : 2.3 Key Value Properties 15 min TKTK
+## Solo Exercise: 2.3 Key Value Properties 15 min TKTK
 
 Practice accessing and updating properties in a dictionary by modifying a real estate listing in Section 2.3 of the Jupyter Notebook.
 
-## Discussion : Representing a Data Set
+## Discussion: Representing a Data Set TKTK
 
 Based on what we know about data structures, **how would we represent an entire data set (like a .csv file)**, with many rows and columns of information, **in Python**?
 
