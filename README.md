@@ -28,7 +28,6 @@ This module covers essential Python data structures, including lists, tuples, an
 | [Dictionaries](./dictionaries/README.md)                                       | Creating, accessing, and modifying dictionaries; using key-value pairs for data representation                             |
 | [Combining Data Structures](./combining-data-structures/README.md)             | Navigating and managing nested data structures, debugging with print statements, and practical exercises with complex data |
 | [Wrap Up](./wrap-up/README.md)                                                 | Reviewing key concepts, ensuring comprehension, and preparing for the next topic                                           |
-| **Total content**                                                              |                                                                                                                            |
 
 ## References
 
