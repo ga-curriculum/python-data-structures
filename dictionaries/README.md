@@ -88,7 +88,7 @@ item["fresh"] = False
 
 ## Solo Exercise: 2.3 Key Value Properties 15 min TKTK
 
-Practice accessing and updating properties in a dictionary by modifying a real estate listing in Section 2.3 of the Jupyter Notebook.
+Practice accessing and updating properties in a dictionary by modifying a real estate listing in **Section 2.3** of the Jupyter Notebook.
 
 ## Discussion: Representing a Data Set TKTK
 

@@ -85,7 +85,7 @@ print(authors[0]["books"][1]["title"])
 ## Partner Exercise: 2.4 Python Librarian 15 min TKTK
 
 Managing nested data structures can be difficult!
-Work through the challenges of accessing and modifying the "authors" dictionary found in Section 2.4 of the workbook.
+Work through the challenges of accessing and modifying the "authors" dictionary found in **Section 2.4** of the workbook.
 
 ![Image Placeholder](TKTK)
 
