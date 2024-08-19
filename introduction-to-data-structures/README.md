@@ -63,7 +63,7 @@ Fortunately, Python provides us with some options for compiling data into a sing
 
 <br>
 
-<div class="activity knowledge-check">
+<div class="activity discussion">
   <h2 class="title">Guess the Data Structure!</h2>
   <span class="minutes"></span>
 </div>

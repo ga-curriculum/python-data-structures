@@ -99,7 +99,7 @@ Practice accessing and updating properties in a dictionary by modifying a real e
 
 <br>
 
-<div class="activity knowledge-check">
+<div class="activity discussion">
   <h2 class="title">Representing a Data Set</h2>
   <span class="minutes"></span>
 </div>
@@ -112,7 +112,6 @@ Based on what we know about data structures, **how would we represent an entire 
 | mango     | food     | 3.00  |
 | journal   | office   | 15.00 |
 
-
 <details>
 <summary>✅ Click to see the answer: </summary>
 <hr>
@@ -121,7 +120,6 @@ A List of Dictionaries!
 
 Each dictionary is a specific row, and the list is our "table" collecting all of the rows together.
 
-<hr>
 </details>
 
 <br>
