@@ -24,7 +24,12 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - Combining data structures.
 - List methods.
 
-## Solo Exercise: Jupyter Notebook Review (10 min) TKTK (10 min) TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">Jupyter Notebook Review</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 Let’s dive right in and use what we learned in the pre-work! We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
@@ -45,7 +50,7 @@ customer_four = "Ellie-Mai Muir"
 
 You won’t get very far using a new variable for every new piece of data!
 
-> 🍎 Note also how "hard-coded" this list would be — you would have to remember exactly which variable contained each string!
+> 💡 Note also how "hard-coded" this list would be — you would have to remember exactly which variable contained each string!
 > And what happens when we want to get rid of "customer_three" and move everyone else up by one?
 
 ## Data Structures to the Rescue!
@@ -56,7 +61,12 @@ Fortunately, Python provides us with some options for compiling data into a sing
 - **Tuples** - are like lists but more strict. You can’t update the values in a tuple!
 - **Dictionaries** - allow us to associate multiple properties together, much like a single row of a spreadsheet can contain many columns.
 
-## Discussion: Guess the Data Structure! TKTK
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">Guess the Data Structure!</h2>
+  <span class="minutes"></span>
+</div>
 
 Before we get into the specifics, let’s think about which of our three data structures (lists, tuples, and dictionaries) makes the most sense when representing the following information:
 
@@ -89,4 +99,4 @@ Tuples hold values that will not change, while lists can be updated more easily.
 
 <br>
 
-> 🍎 The common theme here is that tuples hold values that will not change over time. You might have to update a transaction, but reference data such as continents or quality ranks won’t change. Dictionaries represent a single, but complex piece, of information with multiple properties.
+> 💡 The common theme here is that tuples hold values that will not change over time. You might have to update a transaction, but reference data such as continents or quality ranks won’t change. Dictionaries represent a single, but complex piece, of information with multiple properties.

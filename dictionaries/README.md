@@ -86,11 +86,23 @@ The same syntax can update a given property as well.
 item["fresh"] = False
 ```
 
-## Solo Exercise: 2.3 Key Value Properties 15 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">2.3 Key Value Properties</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Practice accessing and updating properties in a dictionary by modifying a real estate listing in **Section 2.3** of the Jupyter Notebook.
 
-## Discussion: Representing a Data Set TKTK
+## Representing a Data Set
+
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">Representing a Data Set</h2>
+  <span class="minutes"></span>
+</div>
 
 Based on what we know about data structures, **how would we represent an entire data set (like a .csv file)**, with many rows and columns of information, **in Python**?
 
@@ -100,7 +112,6 @@ Based on what we know about data structures, **how would we represent an entire 
 | mango     | food     | 3.00  |
 | journal   | office   | 15.00 |
 
-## Representing a Data Set
 
 <details>
 <summary>✅ Click to see the answer: </summary>
@@ -115,4 +126,4 @@ Each dictionary is a specific row, and the list is our "table" collecting all of
 
 <br>
 
-> 🍎 Hopefully this connection to data formats the students are already familiar with helps solidify the role of lists and dictionaries in data analysis. Dictionaries can be tricky to understand, so the comparison to rows and columns can help familiarize the concept.
+> 💡 Hopefully this connection to data formats the students are already familiar with helps solidify the role of lists and dictionaries in data analysis. Dictionaries can be tricky to understand, so the comparison to rows and columns can help familiarize the concept.

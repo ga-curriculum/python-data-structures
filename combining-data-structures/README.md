@@ -15,12 +15,17 @@ So far, we’ve seen lists and dictionaries that organize simpler data types, li
 
 When getting data from outside sources, for example, you might be given a dictionary that contains another dictionary that contains a list containing another dictionary that **finally** contains the information you’re looking for!
 
-> 🍎 Nested data structures can make programming complicated, but they are also what makes it more powerful than other analysis tools like Excel.
+> 💡 Nested data structures can make programming complicated, but they are also what makes it more powerful than other analysis tools like Excel.
 >
 > - You can’t have a cell that’s actually an entire table, but you can have a dictionary that contains another list of dictionaries, and so on.
 > - This ability to build in powerful, complex relationships between data is a compelling benefit of Python over more user-friendly data analysis tools.
 
-## Discussion: What Is This Accessing? TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">What Is This Accessing?</h2>
+  <span class="minutes"></span>
+</div>
 
 Think about what the following line of code is saying, one layer at a time:
 
@@ -30,7 +35,14 @@ authors[0]["books"][1]["title"]
 
 _Without seeing the exact data structure in question, what is this line attempting to access?_
 
-## Discussion: Peeling Back the Layers TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Peeling Back the Layers</h2>
+  <span class="minutes"></span>
+</div>
+
+_What does each layer do?_
 
 ```python
 authors[0]
@@ -79,10 +91,15 @@ print(authors[0]["books"][1])
 print(authors[0]["books"][1]["title"])
 ```
 
-> 🍎 You can demonstrate this process using the notebook challenge’s complex data structure to illustrate the point.
+> 💡 You can demonstrate this process using the notebook challenge’s complex data structure to illustrate the point.
 > You can also add more properties/nested structures to repeat the technique.
 
-## Partner Exercise: 2.4 Python Librarian 15 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">2.4 Python Librarian</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Managing nested data structures can be difficult!
 Work through the challenges of accessing and modifying the "authors" dictionary found in **Section 2.4** of the workbook.

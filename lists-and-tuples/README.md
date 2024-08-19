@@ -55,7 +55,12 @@ fruits[1] = "strawberry"
 # The fruits list now looks like ["kiwi", "strawberry", "apple"]
 ```
 
-## Solo Exercise: 2.1 Colors of the Rainbow 15 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">2.1 Colors of the Rainbow</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Let’s practice creating a list, along with accessing and updating values using the specific list index syntax.
 
@@ -108,7 +113,12 @@ fruits.pop(0)
 # fruits is now: ["kiwi"]
 ```
 
-## Partner Exercise: 2.2 The Wait List 20 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">2.2 The Wait List</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Let’s practice these list methods and more by managing the waiting list for the Python Academy, the most exclusive private boarding school in all of East Python-shire.
 
@@ -122,7 +132,7 @@ Let’s practice these list methods and more by managing the waiting list for th
 | `min()` and `max()` | Produces the minimum or maximum.                 | `python scores = [10, 20, 30]`<br> `min(scores)` <br> `# 10` <br> `max(scores)` <br> `# 30` |
 | `sum()`             | Produces the total sum of all items in the list. | `python sales = [25, 15, 10]` <br> `sum(sales)` <br> `# 50`                                 |
 
-> 🍎 This is simply to show that not all functions involving lists have to be methods of the list itself. Some of these aggregate functions will be very important for the purposes of analysis, and no discussion of lists is complete without introducing `len()`.
+> 💡 This is simply to show that not all functions involving lists have to be methods of the list itself. Some of these aggregate functions will be very important for the purposes of analysis, and no discussion of lists is complete without introducing `len()`.
 
 ## Tuples: You Already Know Them!
 
