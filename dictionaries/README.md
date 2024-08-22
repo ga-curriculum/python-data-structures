@@ -29,7 +29,7 @@ The above row would be translated into this dictionary:
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 Curly braces are used to start and end the dictionary.
 
@@ -37,7 +37,7 @@ Curly braces are used to start and end the dictionary.
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 Key names are provided first and surrounded by quotation marks.
 
@@ -45,7 +45,7 @@ Key names are provided first and surrounded by quotation marks.
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 Values are provided after a colon and can be of any data type.
 
@@ -53,7 +53,7 @@ Values are provided after a colon and can be of any data type.
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 Finally, note the commas separating each key-value pair.
 

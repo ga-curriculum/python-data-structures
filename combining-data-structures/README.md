@@ -104,6 +104,6 @@ print(authors[0]["books"][1]["title"])
 Managing nested data structures can be difficult!
 Work through the challenges of accessing and modifying the "authors" dictionary found in **Section 2.4** of the workbook.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 _If you aren't able to finish this in class, we encourage you to complete it as homework for more practice._
