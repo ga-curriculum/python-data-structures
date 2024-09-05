@@ -29,15 +29,11 @@ The above row would be translated into this dictionary:
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
 
-<!-- ![Image Placeholder](TKTK) -->
-
 Curly braces are used to start and end the dictionary.
 
 ```python
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
-
-<!-- ![Image Placeholder](TKTK) -->
 
 Key names are provided first and surrounded by quotation marks.
 
@@ -45,15 +41,11 @@ Key names are provided first and surrounded by quotation marks.
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
 
-<!-- ![Image Placeholder](TKTK) -->
-
 Values are provided after a colon and can be of any data type.
 
 ```python
 item = { "item_name": "tomatoes", "category": "food", "price": 1.99 }
 ```
-
-<!-- ![Image Placeholder](TKTK) -->
 
 Finally, note the commas separating each key-value pair.
 
@@ -94,6 +86,8 @@ item["fresh"] = False
 </div>
 
 Practice accessing and updating properties in a dictionary by modifying a real estate listing in **Section 2.3** of the Jupyter Notebook.
+
+<img src="./assets/house.png" alt="House Image" style="width: 300px; height: auto;">
 
 ## Representing a Data Set
 

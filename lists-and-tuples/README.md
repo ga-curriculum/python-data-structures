@@ -18,7 +18,7 @@ A **list** is an ordered collection of data combined into one variable. Each ite
     0         1         2
 ```
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/fruit-basket.png" alt="Fruit Basket" style="width: 300px; height: auto;">
 
 ## Syntax
 
@@ -64,7 +64,7 @@ fruits[1] = "strawberry"
 
 Let’s practice creating a list, along with accessing and updating values using the specific list index syntax.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/clipbaord.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## List Methods
 
@@ -122,7 +122,7 @@ fruits.pop(0)
 
 Let’s practice these list methods and more by managing the waiting list for the Python Academy, the most exclusive private boarding school in all of East Python-shire.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/pen-and-paper.png" alt="Pen and Paper" style="width: 300px; height: auto;">
 
 ## More List Functions
 

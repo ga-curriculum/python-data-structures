@@ -15,6 +15,8 @@
 - Use index-based retrieval to access and manipulate list items.
 - Use dictionaries to represent data with multiple properties.
 
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
+
 ## What We’ll Practice
 
 This Module connects to and reinforces topics that you encountered in the pre-work.
