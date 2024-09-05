@@ -9,10 +9,10 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                                                                                            | **Looking Ahead** |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| **In today’s class, we…**                                                                                                                                                                            | **On your own:**  |
-| - Used lists and list methods to manage collections of data.<br>- Used index-based retrieval to access and manipulate list items.<br>- Used dictionaries to represent data with multiple properties. | -                 |
+| **Recap**                                                                                                                                                                                            | **Looking Ahead**                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **In today’s class, we…**                                                                                                                                                                            | **On your own:**                                              |
+| - Used lists and list methods to manage collections of data.<br>- Used index-based retrieval to access and manipulate list items.<br>- Used dictionaries to represent data with multiple properties. | - Work through any unfinished exercises in Jupyter Notebooks. |
 
 ### Exit Tickets
 
