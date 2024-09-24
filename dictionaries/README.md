@@ -118,4 +118,4 @@ Each dictionary is a specific row, and the list is our "table" collecting all of
 
 <br>
 
-> 💡 Hopefully this connection to data formats the students are already familiar with helps solidify the role of lists and dictionaries in data analysis. Dictionaries can be tricky to understand, so the comparison to rows and columns can help familiarize the concept.
+> 💡 Connecting lists and dictionaries to familiar data formats can help make their role in data analysis easier to understand. Dictionaries can be challenging, but thinking of them like rows and columns in a table can make the concept more approachable.
